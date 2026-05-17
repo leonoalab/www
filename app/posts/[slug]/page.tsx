@@ -149,7 +149,7 @@ export default async function PostPage({
                     </Container>
                 </section>
             </article>
-            <Footer/>
+            <Footer/>g
         </main>
     );
 }
