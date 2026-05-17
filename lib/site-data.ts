@@ -11,13 +11,13 @@ export const site = {
 };
 
 export const navItems = [
-  { label: "Qué hacemos", href: "#que-hacemos" },
-  { label: "Impacto", href: "#impacto" },
-  { label: "Cómo funcionamos", href: "#funcionamos" },
-  { label: "Proyectos", href: "#proyectos" },
-  { label: "Método", href: "#metodo" },
-  { label: "Posts", href: "#posts" },
-  { label: "Contacto", href: "#contacto" },
+  { label: "Qué hacemos", href: "/#que-hacemos" },
+  { label: "Impacto", href: "/#impacto" },
+  { label: "Cómo funcionamos", href: "/#funcionamos" },
+  { label: "Proyectos", href: "/#proyectos" },
+  { label: "Método", href: "/#metodo" },
+  { label: "Posts", href: "/#posts" },
+  { label: "Contacto", href: "/#contacto" },
 ];
 
 export const services = [
